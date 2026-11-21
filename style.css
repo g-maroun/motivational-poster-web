@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+
+  h1{ 
+            font-family: "Imperial Script";
+            background-color: black;
+            color: white
+          }
+
+.poster {
+  width: 75%;
+  margin-left: 25%;
+  margin-top: 100px;
+  color: white;
+  font-family: "Imperial Script", serif;
+  text-align: center;
+}
+
+.motivation-img {
+  border: 10px solid red;
+  width: 100%;
+}
